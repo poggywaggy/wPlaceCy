@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": "Dragalia Upcoming Anni",
+  "imageUrl": "https://raw.githubusercontent.com/poggywaggy/ihatemuskrat/refs/heads/main/pngs/wplace/templates/wplaceanniupcoming.png",
+  "pixelUrl": "https://backend.wplace.live/s0/pixel/597/780?x=401&y=1",
+  "offsetX": 0,
+  "offsetY": 0,
+  "opacity": 0.7
+}
